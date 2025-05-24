@@ -32,7 +32,7 @@
 
 Android、iPhone等智慧型手機也可以訂閱使用
 
-### 目前更新至：**2025/12/31**
+### 目前更新至：**2026/12/31**
 
 ### Google Calendar 台灣農曆 - [預覽網頁](https://www.google.com/calendar/embed?src=ug2j3l2nqq7uch3m9n0pm5t2lo%40group.calendar.google.com&ctz=Asia/Taipei)  
 >     https://calendar.google.com/calendar/ical/ug2j3l2nqq7uch3m9n0pm5t2lo%40group.calendar.google.com/public/basic.ics

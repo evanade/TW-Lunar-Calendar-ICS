@@ -41,8 +41,8 @@ Android、iPhone等智慧型手機也可以訂閱使用
 ---
 各年農曆.ics檔案： 
 
-Google Calendar 2023 農曆 - [預覽網頁](https://calendar.google.com/calendar/embed?src=442ec4376hq851lnvhksr12rcc%40group.calendar.google.com&ctz=Asia%2FTaipei)  
->     https://calendar.google.com/calendar/ical/442ec4376hq851lnvhksr12rcc%40group.calendar.google.com/public/basic.ics
+Google Calendar 2026 農曆 - [預覽網頁](https://calendar.google.com/calendar/embed?src=a24714bb4ef411bf2a3d830a1d18bfcf41a0258a63c737c2c9cb3003816e8db7%40group.calendar.google.com&ctz=Asia%2FTaipei)  
+>     https://calendar.google.com/calendar/ical/a24714bb4ef411bf2a3d830a1d18bfcf41a0258a63c737c2c9cb3003816e8db7%40group.calendar.google.com/public/basic.ics
 
 Google Calendar 2024 農曆 - [預覽網頁](https://calendar.google.com/calendar/embed?src=0df46ea2ac8888341e4efecb0498f27b388ef906015d1ca1442e02ca98b75374%40group.calendar.google.com&ctz=Asia%2FTaipei)  
 >     https://calendar.google.com/calendar/ical/0df46ea2ac8888341e4efecb0498f27b388ef906015d1ca1442e02ca98b75374%40group.calendar.google.com/public/basic.ics
@@ -57,6 +57,7 @@ https://t.me/EvanADE_Blog/9
 ---
 
 **更新紀錄：**  
+> 2025-05-24： 檔案更新至2025/12/31  
 > 2024-06-15： 檔案更新至2025/12/31  
 > 2023-05-27： 檔案更新至2024/12/31  
 > 2022-06-18： 檔案更新至2023/12/31  
